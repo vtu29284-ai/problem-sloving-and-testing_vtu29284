@@ -1,4 +1,4 @@
-weeek1  1 [click here](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)
+week1  1 [click here](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)
   2.1 [click here](https://www.hackerrank.com/challenges/java-sort/problem)
 2.2 [click here](https://leetcode.com/problems/sort-array-by-parity/description/)
 3.1 [click here](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)
