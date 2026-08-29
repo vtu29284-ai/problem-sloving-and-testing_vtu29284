@@ -10,3 +10,18 @@
 | 7| richest-customer-wealth| Easy | [Problem Link](https://leetcode.com/problems/richest-customer-wealth/submissions/2105017744/) |1|
 | 8| squares-of-a-sorted-array | Easy | [Problem & Submission](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2105018946/) |1|
 | 9|  find-pivot-index| Easy | [Problem Link](https://leetcode.com/problems/find-pivot-index/) |1|
+|10| build-array-from-permutation| Easy | [Problem Link](https://leetcode.com/problems/build-array-from-permutation/submissions/2123475577/) |1|
+|11| build-array-from-permutation| Easy | [Problem Link](https://leetcode.com/problems/shuffle-the-array/submissions/2123476494/) |1|
+|12| remove-element| Easy | [Problem Link](https://leetcode.com/problems/remove-element/submissions/2123477360/) |1|
+|13|remove-duplicates-from-sorted-array| Easy | [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2123481175/) |1|
+|14|maximum-subarray| Easy | [Problem Link](https://leetcode.com/problems/maximum-subarray/submissions/2123482105/) |1|
+|15|find-the-highest-altitude| Easy | [Problem Link](https://leetcode.com/problems/find-the-highest-altitude/submissions/2123483139/) |1|
+|16|group-anagrams| Easy | [Problem Link](https://leetcode.com/problems/group-anagrams/submissions/2123484037/) |1|
+|17|top-k-frequent-elements| Easy | [Problem Link](https://leetcode.com/problems/top-k-frequent-elements/submissions/2123484848/) |1|
+|18|java-dequeue| Easy | [Problem Link](https://www.hackerrank.com/challenges/java-dequeue/problem) |1|
+|19|java-hashset| Easy | [Problem Link](https://www.hackerrank.com/challenges/java-hashset/problem) |1|
+|20|date-and-time| Easy | [Problem Link](https://www.hackerrank.com/challenges/java-date-and-time/problem) |1|
+|21|number-of-days-between-two-dates| Easy | [Problem Link](https://leetcode.com/problems/number-of-days-between-two-dates/submissions/2123501347/ )|1|
+
+
+
