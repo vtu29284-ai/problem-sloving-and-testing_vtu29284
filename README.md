@@ -28,7 +28,7 @@
 |25|java-arraylist| Easy | [Problem Link](https://www.hackerrank.com/challenges/java-arraylist/problem)|1|
 |26|largest-number| Easy | [Problem Link](https://leetcode.com/problems/largest-number/submissions/2123543691/). |1|
 |27|java-comparator| Easy | [Problem Link](https://www.hackerrank.com/challenges/java-comparator/problem). |1|
-|27|sort-the-people| Easy | [Problem Link](https://leetcode.com/problems/sort-the-people/submissions/2123546962/). |1|
+|28|sort-the-people| Easy | [Problem Link](https://leetcode.com/problems/sort-the-people/submissions/2123546962/). |1|
 
 
 
