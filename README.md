@@ -21,7 +21,19 @@
 |18|java-dequeue| Easy | [Problem Link](https://www.hackerrank.com/challenges/java-dequeue/problem) |1|
 |19|java-hashset| Easy | [Problem Link](https://www.hackerrank.com/challenges/java-hashset/problem) |1|
 |20|date-and-time| Easy | [Problem Link](https://www.hackerrank.com/challenges/java-date-and-time/problem) |1|
-|21|number-of-days-between-two-dates| Easy | [Problem Link](https://leetcode.com/problems/number-of-days-between-two-dates/submissions/2123501347/ )|1|
+|21|number-of-days-between-two-dates| Easy | [Problem Link](https://leetcode.com/problems/number-of-days-between-two-dates/submissions/2123501347/)|1|
+|22|day-of-the-year| Easy | [Problem Link](https://leetcode.com/problems/day-of-the-year/submissions/2123535336/)|1|
+|23|day-of-the-week| Easy | [Problem Link](https://leetcode.com/problems/day-of-the-week/submissions/2123537008/)|1|
+|24|priority-queue| Easy | [Problem Link](https://www.hackerrank.com/challenges/java-priority-queue/problem)|1|
+|25|java-arraylist| Easy | [Problem Link](https://www.hackerrank.com/challenges/java-arraylist/problem)|1|
+|26|largest-number| Easy | [Problem Link](https://leetcode.com/problems/largest-number/submissions/2123543691/). |1|
+|27|java-comparator| Easy | [Problem Link](https://www.hackerrank.com/challenges/java-comparator/problem). |1|
+|27|sort-the-people| Easy | [Problem Link](https://leetcode.com/problems/sort-the-people/submissions/2123546962/). |1|
+
+
+
+
+
 
 
 
