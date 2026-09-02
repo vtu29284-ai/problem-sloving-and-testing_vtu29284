@@ -51,6 +51,14 @@
 |20|naive-algorithm-for-pattern-searching| Easy | [Problem Link](https://www.geeksforgeeks.org/dsa/naive-algorithm-for-pattern-searching/) |2|
 |21|string-similarity| Easy | [Problem Link](https://www.hackerrank.com/challenges/string-similarity/problem) |2|
 |22|repeated-substring-pattern| Easy | [Problem Link](https://leetcode.com/problems/repeated-substring-pattern/submissions/2128095564/) |2|
+|23|two-strings| Easy | [Problem Link](https://www.hackerrank.com/challenges/two-strings/problem) |2|
+|24|rotate-string| Easy | [Problem Link](https://leetcode.com/problems/rotate-string/submissions/2128102345/) |2|
+|25|mars-exploration| Easy | [Problem Link](https://www.hackerrank.com/challenges/mars-exploration/problem) |2|
+|26|find-all-anagrams-in-a-string| Easy | [Problem Link](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/2128105933/) |2|
+|27|palindrome-index| Easy | [Problem Link](https://www.hackerrank.com/challenges/palindrome-index/problem) |2|
+|28|index-of-the-first-occurrence-in-a-string| Easy | [Problem Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2128109639/) |2|
+|29|longest-palindromic-substring| Easy | [Problem Link](https://leetcode.com/problems/longest-palindromic-substring/submissions/2128111564/) |2|
+|30|longest-palindromic-substring| Easy | [Problem Link]() |2|
 
 
 
