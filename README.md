@@ -30,8 +30,18 @@
 |27|java-comparator| Easy | [Problem Link](https://www.hackerrank.com/challenges/java-comparator/problem). |1|
 |28|sort-the-people| Easy | [Problem Link](https://leetcode.com/problems/sort-the-people/submissions/2123546962/). |1|
 |1|maximum-subarray| Easy | [Problem Link](https://leetcode.com/problems/maximum-subarray/submissions/2123549438/) |2|
-|1|codechef| Easy | [Problem Link](https://www.codechef.com/problems/LAPIN) |2|
-|1|codechef| Easy | [Problem Link]() |2|
+|2|codechef| Easy | [Problem Link](https://www.codechef.com/problems/LAPIN) |2|
+|3|compare-the-triplets| Easy | [Problem Link](https://www.hackerrank.com/challenges/compare-the-triplets/problem) |2|
+|4|contains duplicate| Easy | [Problem Link](https://leetcode.com/problems/contains-duplicate/submissions/2128022688/) |2|
+|5|time conversion| Easy | [Problem Link](https://www.hackerrank.com/challenges/time-conversion/problem) |2|
+|6|move-zeroes| Easy | [Problem Link](https://leetcode.com/problems/move-zeroes/submissions/2128034675/) |2|
+|7|diagonal-difference| Easy | [Problem Link](https://www.hackerrank.com/challenges/diagonal-difference/problem) |2|
+
+
+
+
+
+
 
 
 
