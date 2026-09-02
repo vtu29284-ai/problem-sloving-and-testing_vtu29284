@@ -36,6 +36,24 @@
 |5|time conversion| Easy | [Problem Link](https://www.hackerrank.com/challenges/time-conversion/problem) |2|
 |6|move-zeroes| Easy | [Problem Link](https://leetcode.com/problems/move-zeroes/submissions/2128034675/) |2|
 |7|diagonal-difference| Easy | [Problem Link](https://www.hackerrank.com/challenges/diagonal-difference/problem) |2|
+|8|transpose-matrix| Easy | [Problem Link](https://leetcode.com/problems/transpose-matrix/submissions/2128041886/) |2|
+|9|matrix-block-sum| Easy | [Problem Link](https://leetcode.com/problems/matrix-block-sum/submissions/2128043630/) |2|
+|10|matrix-rotation-algo| Easy | [Problem Link](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) |2|
+|11|maximum-subarray| Easy | [Problem Link](https://leetcode.com/problems/maximum-subarray/submissions/2128049494/) |2|
+|12|the-birthday-bar| Easy | [Problem Link](https://www.hackerrank.com/challenges/the-birthday-bar/problem) |2|
+|13|maxsubarray| Easy | [Problem Link](https://www.hackerrank.com/challenges/maxsubarray/problem) |2|
+|14|maximum-sum-circular-subarray| Easy | [Problem Link](https://leetcode.com/problems/maximum-sum-circular-subarray/submissions/2128054652/) |2|
+|15|string-to-integer-atoi| Easy | [Problem Link](https://leetcode.com/problems/string-to-integer-atoi/submissions/2128056947/) |2|
+|16|alternating-characters| Easy | [Problem Link](https://www.hackerrank.com/challenges/alternating-characters/problem) |2|
+|17|longest-substring-without-repeating-characters| Easy | [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2128061174/) |2|
+|18|problems/find-and-replace-pattern| Easy | [Problem Link](https://leetcode.com/problems/find-and-replace-pattern/submissions/2128063179/) |2|
+|19|string-matching-in-an-array| Easy | [Problem Link](https://leetcode.com/problems/string-matching-in-an-array/submissions/2128065016/) |2|
+|20|naive-algorithm-for-pattern-searching| Easy | [Problem Link](https://www.geeksforgeeks.org/dsa/naive-algorithm-for-pattern-searching/) |2|
+
+
+
+
+
 
 
 
