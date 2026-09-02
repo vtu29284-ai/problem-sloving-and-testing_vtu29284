@@ -49,6 +49,8 @@
 |18|problems/find-and-replace-pattern| Easy | [Problem Link](https://leetcode.com/problems/find-and-replace-pattern/submissions/2128063179/) |2|
 |19|string-matching-in-an-array| Easy | [Problem Link](https://leetcode.com/problems/string-matching-in-an-array/submissions/2128065016/) |2|
 |20|naive-algorithm-for-pattern-searching| Easy | [Problem Link](https://www.geeksforgeeks.org/dsa/naive-algorithm-for-pattern-searching/) |2|
+|21|string-similarity| Easy | [Problem Link](https://www.hackerrank.com/challenges/string-similarity/problem) |2|
+|22|repeated-substring-pattern| Easy | [Problem Link](https://leetcode.com/problems/repeated-substring-pattern/submissions/2128095564/) |2|
 
 
 
